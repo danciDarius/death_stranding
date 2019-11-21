@@ -6,3 +6,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+h1{
+    color: white;
+    font-size: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-left: 50px;
+}
